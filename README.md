@@ -29,7 +29,8 @@ We use this categorical data encoding technique when the features are nominal(do
 • Square Root Transforma
 tion
 • Square Transformation
-
+```
+```
   # 2. POWER TRANSFORMATION
 • Boxcox method
 • Yeojohnson method
